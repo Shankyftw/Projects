@@ -1,3 +1,3 @@
-The first project is related to a e-commerce website, solving the KPI's and track the yearly sales of items by the help of exel 365.
-The SQL projects help us to find the highest sales of an album and the customers who buys the most of the records of a music company.
-The PowerBi HR Analytics dashboard help to track the attrition of employees depending on the various reasons. 
+----The first project is related to a e-commerce website, solving the KPI's and track the yearly sales of items by the help of exel 365.
+---The SQL projects help us to find the highest sales of an album and the customers who buys the most of the records of a music company.
+----The PowerBi HR Analytics dashboard help to track the attrition of employees depending on the various reasons. 
